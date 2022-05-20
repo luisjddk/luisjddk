@@ -6,7 +6,7 @@ Web developer & Ethical hacker
 
 * 🌍  I'm based in São Paulo
 * 🖥️  See my portfolio at [MyPortfolio](https://luisjddk.vercel.app)
-* 🧠  I'm learning JavaScript and Ruby
+* 🧠  I'm learning C
 
 <a href="https://www.github.com/luisjddk" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/luisjddk?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
